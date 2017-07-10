@@ -36,7 +36,7 @@ Independent work time:
 * Ask questions (listed below)
 * Outline units
 
-HW:
+#### Homework
 * Explore Resources, try to read and watch one thing
 * Skim the [Hats] presentation (https://dl.dropboxusercontent.com/u/9648298/HATS.pdf) by Martin Bravo
 * Identify the artifact that you want students to make & start making it!
@@ -46,7 +46,7 @@ HW:
 
 ###Day 3
 
-## Homework
+## Resources
 
 ###Videos
  * [Queen of Code] (http://fivethirtyeight.com/features/the-queen-of-code/), Gillian Jacobs
