@@ -84,7 +84,7 @@ Add discussion questions
 
 #### Homework
 * Keep building your project!
-* Read about the Teacher-Learner-Observer model
+* [Read about the Teacher-Learner-Observer model](https://docs.google.com/document/d/1zNXCm6MDcgqwwT32E56ZrTAvIFi5OW-ev9nE7CPU78M/edit?usp=sharing)
 
 ## Kick-off workshop: Day 3
 
@@ -94,8 +94,14 @@ Add discussion questions
 
 #### Triage
 Where is everyone in terms of having something worthwhile to demo that they can actually get useful feedback on?
+Keep building...
 
 #### Demos
+Using the Teacher-Learner-Observer (TLO) training modality we will workshop our unit ideas, get useful feedback on content, pedagogical strategies, potential extensions, etc.
+
+#### Next steps for Fellowship
+Finalize meeting plan
+Finalize objectives - dates and deliverables, per session management
 
 ## Resources
 
