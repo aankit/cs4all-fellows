@@ -4,7 +4,8 @@
 
 #### Soft-start
 - Send an intro to the email if you haven't yet
-- Read emails
+- Read intro emails
+- Tell me about your expecations using the handout that says "As we scale CS4All across the City,..."
 
 #### Understanding concepts and practices
 For the next 30 minutes, please analyze this tutorial on React.js, Facebook's front-end rendering engine. Your goal is to find example of the [Concepts + Practice](https://drive.google.com/open?id=10Oa9WgVrHA2TAWbT1b3_25M0VKyXJNUjduT_AhF_FZY) in the tutorial and to record them in the [Blueprint Scavenger Hunt spreadsheet](https://docs.google.com/spreadsheets/d/1wJ8Pg0g8Ch3Vl5KisbfsaBv2zhriZgfWxksKhWoY-pg/copy)
