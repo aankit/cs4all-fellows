@@ -38,7 +38,7 @@ Create personas for:
     - [Survey of teachers by 2016-17 Fellows]()
 
 Generate ideas for units using Design Thinking
-* [Design Thinking Slides]
+* [Design Thinking Resources](https://drive.google.com/open?id=1wQxePkFKCLVWyN7luTdgAwf0cdnv3vCrNd0lnjLyrag)
 
 Practical plans for the summer:
 * Meetings (in-person, digital, small group, one-on-one)?
@@ -83,17 +83,23 @@ Potential demo topics
 Add discussion questions
 
 #### Homework
-Keep building your project!
+* Keep building your project!
+* Read about the Teacher-Learner-Observer model
 
 ## Kick-off workshop: Day 3
 
 #### Soft-start
 * Sign for a demo slot with a post-it
-* 
+* Keep working on your project + unit
+
+#### Triage
+Where is everyone in terms of having something worthwhile to demo that they can actually get useful feedback on?
+
+#### Demos
 
 ## Resources
 
-### Videos
+### Videos - all less then 20 minutes (I think)
  * [Queen of Code](http://fivethirtyeight.com/features/the-queen-of-code/), Gillian Jacobs
  * [The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0), AT&T Bell Labs
  * [Pick an Eyeo Talk that looks interesting](https://vimeo.com/eyeofestival/)
