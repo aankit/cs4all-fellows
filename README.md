@@ -1,23 +1,23 @@
-#CS Curriculum Track 2017-18
+# CS Curriculum Track 2017-18
 
-##Kick-off workshop
+## Kick-off workshop
 
-###Day 1
+### Day 1
 
-####Soft-start
+#### Soft-start
 React Tutorial and Concepts + Practice Scavenger Hunt
 
-####Context
+#### Context
 Why are we here? What is CS4ALL? What is the Blueprint?
 Who are you? Who am I? 
 What is our goal?
 What are our challenges?
 
-####Introduction to Meaningful Units
+#### Introduction to Meaningful Units
 What is computing good for?
 What is a meaningful unit?
 
-####Exercise
+#### Exercise
 
 Create personas for:
 * A teacher at your school who doesn’t currently teach CS
@@ -34,7 +34,7 @@ Practical plans for the summer:
 Independent work time:
 * Read existing units
 * Ask questions (listed below)
-Outline units
+* Outline units
 
 HW:
 * Explore Resources, try to read and watch one thing
