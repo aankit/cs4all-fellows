@@ -106,6 +106,6 @@ Keep building your project!
 * [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/), Mike Bostock
 * [Learnable Programming](http://worrydream.com/#!/LearnableProgramming), Bret Victor
 * [Make Data more Human](https://www.ted.com/talks/jer_thorp_make_data_more_human), Jer Thorp
-* [Parable of Polygons](http://ncase.me/polygons/)
+* [Parable of Polygons](http://ncase.me/polygons/), Nicky Case
 
 
