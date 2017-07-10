@@ -90,14 +90,13 @@ Keep building your project!
  * [Pick an Eyeo Talk that looks interesting](https://vimeo.com/eyeofestival/)
 
 ### Short Reads
-  * [The Machine Stops](http://www.ele.uri.edu/faculty/vetter/Other-stuff/The-
-  Machine-Stops.pdf), E.M. Forster
-  * [The Library of Babel](https://libraryofbabel.info/Borges/libraryofbabel.pdf), Jorge Luis Borges
-  * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
-  * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
-  * [Algorithmic Bias](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/)
-  * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
-  * [How de Blasio Should Expand Computer Science Education
+* [The Machine Stops](http://www.ele.uri.edu/faculty/vetter/Other-stuff/The-Machine-Stops.pdf), E.M. Forster
+* [The Library of Babel](https://libraryofbabel.info/Borges/libraryofbabel.pdf), Jorge Luis Borges
+* [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
+* [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
+* [Algorithmic Bias](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/)
+* [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
+* [How de Blasio Should Expand Computer Science Education
 Hint: Don’t Arrest Ninth Graders Showing the Way] (https://medium.com/message/how-de-blasio-should-expand-computer-science-education-fb8503517148), Zeynep Tufekci
 
 ### Inspiration
