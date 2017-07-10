@@ -94,7 +94,7 @@ Keep building your project!
 * [The Library of Babel](https://libraryofbabel.info/Borges/libraryofbabel.pdf), Jorge Luis Borges
 * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
 * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
-* [Algorithmic Bias](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/)
+* [Algorithmic Bias](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/), Washington Post summary of impact of ProPulica piece by Julia Angwin and others 
 * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
 * [How de Blasio Should Expand Computer Science Education Hint: Don’t Arrest Ninth Graders Showing the Way](https://medium.com/message/how-de-blasio-should-expand-computer-science-education-fb8503517148), Zeynep Tufekci
 
