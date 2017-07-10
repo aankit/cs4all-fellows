@@ -1,8 +1,6 @@
 # CS Curriculum Track 2017-18
 
-## Kick-off workshop
-
-### Day 1
+## Kick-off workshop: Day 1
 
 #### Soft-start
 - Send an intro to the email if you haven't yet
@@ -51,7 +49,7 @@ Independent work time:
 * Identify the artifact that you want students to make & start making it!
 
 
-### Day 2
+## Kick-off workshop: Day 2
 
 #### Soft-start
 * Share the perspective(s) you will be working from
@@ -79,7 +77,7 @@ Add discussion questions
 #### Homework
 Keep building your project!
 
-### Day 3
+## Kick-off workshop: Day 3
 
 #### Soft-start
 * 
