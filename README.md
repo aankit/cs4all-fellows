@@ -7,7 +7,9 @@
 - Read emails
 
 #### Understanding concepts and practices
-React Tutorial and Concepts + Practice Scavenger Hunt
+For the next 30 minutes, please analyze this tutorial on React.js, Facebook's front-end rendering engine. Your goal is to find example of the [Concepts + Practice](https://drive.google.com/open?id=10Oa9WgVrHA2TAWbT1b3_25M0VKyXJNUjduT_AhF_FZY) in the tutorial and to record them in the [Blueprint Scavenger Hunt spreadsheet](https://docs.google.com/spreadsheets/d/1wJ8Pg0g8Ch3Vl5KisbfsaBv2zhriZgfWxksKhWoY-pg/copy)
+
+Please share your Blueprint Scavenger Hunt spreadsheet with apatel4@strongschools.nyc.
 
 #### Context
 Why are we here? What is CS4ALL? What is the Blueprint?
@@ -17,7 +19,12 @@ What are our challenges?
 
 #### Introduction to Meaningful Units
 What is computing good for?
-What is a meaningful unit?
+* Scale
+    * Size
+    * Distribution
+* Speed
+* Automation
+[What is a meaningful unit?](https://docs.google.com/document/d/1rEulnD7j7qmECcX7zxsH_aGOPRiC-j-mE-0Q1Ak6dfs/edit?usp=sharing)
 
 #### Design thinking to find opportunities to integrate CS
 
@@ -42,8 +49,8 @@ Independent work time:
 * Outline units
 
 #### Homework
-* Review [Concepts + Practices]()
-* Read [Perspectives]()
+* Review [Concepts + Practices](https://drive.google.com/open?id=10Oa9WgVrHA2TAWbT1b3_25M0VKyXJNUjduT_AhF_FZY)
+* Read [Perspectives](https://drive.google.com/open?id=1GlmSupRDHvC4SNI_4TgtxG5gSjlhlxyjvRf2LGB94nY)
 * Explore Resources, try to read and watch one thing
 * Skim the [Hats] presentation (https://dl.dropboxusercontent.com/u/9648298/HATS.pdf) by Martin Bravo
 * Identify the artifact that you want students to make & start making it!
@@ -57,7 +64,7 @@ Independent work time:
 * Share a technical learning goal
 
 #### Context
-* [How might I prepare to teach CS?]()
+* [How might I prepare to teach CS?](https://docs.google.com/document/d/1KB1WaqaNcFBb7ZHv3ABTIKkxCjBEmPHlrWEP5yZdmx8/edit?usp=sharing)
 * PD leads workshop July 18-20 @ Downtown Conference Center, 9a-4p
 * Time to build a project and document
     - 3 hour long sprints
@@ -80,6 +87,7 @@ Keep building your project!
 ## Kick-off workshop: Day 3
 
 #### Soft-start
+* Sign for a demo slot with a post-it
 * 
 
 ## Resources
