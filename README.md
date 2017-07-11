@@ -46,7 +46,7 @@ Practical plans for the summer:
 * What types of supports can I provide?
 
 Independent work time:
-* Read existing units
+* [Read existing units](https://drive.google.com/open?id=0B30-P5ouHFE4c2VqSEcwNXV0M2c)
 * Ask questions (listed below)
 * Outline units
 
