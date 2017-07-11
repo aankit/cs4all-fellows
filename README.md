@@ -15,28 +15,28 @@ Please share your Blueprint Scavenger Hunt spreadsheet with apatel4@strongschool
 
 #### Context
 Why are we here? What is CS4ALL? What is the Blueprint?
-Who are you? Who am I? 
+Who are you? Who am I?
 What is our goal?
 What are our challenges?
 
 #### Introduction to Meaningful Units
-What is computing good for?
-* Scale
-    * Size
-    * Distribution
-* Speed
-* Automation
-[What is a meaningful unit?](https://docs.google.com/document/d/1rEulnD7j7qmECcX7zxsH_aGOPRiC-j-mE-0Q1Ak6dfs/edit?usp=sharing)
+* What is computing good for?
+    * Scale
+        * Size
+        * Distribution
+    * Speed
+    * Automation
+* [What is a meaningful unit?](https://docs.google.com/document/d/1rEulnD7j7qmECcX7zxsH_aGOPRiC-j-mE-0Q1Ak6dfs/edit?usp=sharing)
 
 #### Design thinking to find opportunities to integrate CS
 
 Create personas for:
 * A teacher at your school who doesn’t currently teach CS
 * A student at your school that doesn’t care about CS
-* Critique personas using Analyze practice
 * Resources
     - [What are personas?](https://www.usability.gov/how-to-and-tools/methods/personas.html)
-    - [Survey of teachers by 2016-17 Fellows]()
+    - [Survey of teachers by 2016-17 Fellows](https://docs.google.com/a/strongschools.nyc/forms/d/1q7EB5H5-VTf2WypB18DlNmm_yHsKW5kYT22SleR0abw/edit#responses)
+* Critique personas using Analyze practice
 
 Generate ideas for units using Design Thinking
 * [Design Thinking Resources](https://drive.google.com/open?id=1wQxePkFKCLVWyN7luTdgAwf0cdnv3vCrNd0lnjLyrag)
