@@ -9,7 +9,7 @@
 - Tell me about your expecations using the handout that says "As we scale CS4All across the City,..."
 
 #### Understanding concepts and practices
-For the next 30-45 minutes, please analyze [this tutorial](https://facebook.github.io/react/tutorial/tutorial.html) on React.js, Facebook's front-end rendering engine. Your goal is to find example of the [Concepts + Practice](https://drive.google.com/open?id=10Oa9WgVrHA2TAWbT1b3_25M0VKyXJNUjduT_AhF_FZY) in the tutorial and to record them in the [Blueprint Scavenger Hunt spreadsheet](https://docs.google.com/spreadsheets/d/1wJ8Pg0g8Ch3Vl5KisbfsaBv2zhriZgfWxksKhWoY-pg/copy)
+For the next 30-45 minutes, please analyze [this tutorial](https://facebook.github.io/react/tutorial/tutorial.html) on React.js, Facebook's front-end rendering engine. Your goal is to find example of the [Concepts + Practices](https://drive.google.com/open?id=10Oa9WgVrHA2TAWbT1b3_25M0VKyXJNUjduT_AhF_FZY) in the tutorial and to record them in the [Blueprint Scavenger Hunt spreadsheet](https://docs.google.com/spreadsheets/d/1wJ8Pg0g8Ch3Vl5KisbfsaBv2zhriZgfWxksKhWoY-pg/copy)
 
 Please share your Blueprint Scavenger Hunt spreadsheet with apatel4@strongschools.nyc.
 
