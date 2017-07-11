@@ -5,6 +5,7 @@
 #### Soft-start
 - Send an intro to the email if you haven't yet
 - Read intro emails
+- Read about [Erna Hoover](https://en.wikipedia.org/wiki/Erna_Schneider_Hoover)
 - Tell me about your expecations using the handout that says "As we scale CS4All across the City,..."
 
 #### Understanding concepts and practices
