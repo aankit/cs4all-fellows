@@ -63,7 +63,7 @@ Independent work time:
 #### Soft-start
 * Share a project idea and post it on the wall
 * Share an inspiring project
-* Share a technical learning goal
+* Share a technical learning goal for yourself today - what do you need to learn to write/implement a unit
 
 #### Context
 * [How might I prepare to teach CS?](https://docs.google.com/document/d/1KB1WaqaNcFBb7ZHv3ABTIKkxCjBEmPHlrWEP5yZdmx8/edit?usp=sharing)
