@@ -61,7 +61,7 @@ Independent work time:
 ## Kick-off workshop: Day 2
 
 #### Soft-start
-* Share the perspective(s) you will be working from
+* Share a project idea and post it on the wall
 * Share an inspiring project
 * Share a technical learning goal
 
