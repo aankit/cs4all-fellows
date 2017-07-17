@@ -18,6 +18,9 @@ We will discuss these goals and progress towards during our mandatory check-ins.
 * Perspectives
 * I Can Statements
 
+### Per Session Hours
+Fellows will be paid per session for all meetings with each other and CS4ALL staff as well as independent work done to develop, test, and evaluate CS units. Fellows are eligible for up to 10 hours of per session per month during the length of the fellowship if they are progressing towards fellowship goals.
+
 ## Kick-off workshop: Day 1
 
 #### Soft-start
