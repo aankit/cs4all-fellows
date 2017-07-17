@@ -1,5 +1,23 @@
 # CS Curriculum Track 2017-18
 
+## Deliverables for Summer 2017
+
+We will discuss these goals and progress towards during our mandatory check-ins.
+
+### Complete a prototype unit based on the projects you started last week
+* Ensure the unit meets the CS4ALL criteria for meaningful CS units
+* Ensure the unit is connected with a topic outside of the world of CS, another subject area, student interests, etc.
+
+### Develop a plan to test your unit during the school year
+* Testing with students - do you do the whole unit, part of it? when? how will you assess your success with curriculum design?
+* Testing with other teachers - if you imagine other teachers trying your unit out, what do you need to get them there? how you will assess their success?
+
+### Provide feedback on the elements of the CS4ALL Blueprint
+* Concepts
+* Practices
+* Perspectives
+* I Can Statements
+
 ## Kick-off workshop: Day 1
 
 #### Soft-start
