@@ -13,10 +13,10 @@ We will discuss these goals and progress towards during our mandatory check-ins.
 * Testing with other teachers - if you imagine other teachers trying your unit out, what do you need to get them there? how you will assess their success?
 
 ### Provide feedback on the elements of the CS4ALL Blueprint
-* Concepts
-* Practices
-* Perspectives
-* I Can Statements
+* [Concepts](http://blueprint.cs4all.nyc/concepts)
+* [Practices](http://blueprint.cs4all.nyc/practices)
+* [Perspectives](http://blueprint.cs4all.nyc/perspectives)
+* [I Can Statements](http://blueprint.cs4all.nyc/ican)
 
 ### Per Session Hours
 Fellows will be paid per session for all meetings with each other and CS4ALL staff as well as independent work done to develop, test, and evaluate CS units. Fellows are eligible for up to 10 hours of per session per month during the length of the fellowship if they are progressing towards fellowship goals.
